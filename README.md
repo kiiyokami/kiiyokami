@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-    <img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" align="right">
     <pre>
     💼 App Dev Associate @ Accenture 
     💻 JavaScript • Python 
@@ -13,6 +12,8 @@
     🎮 Music • Games • Code
     </pre>
 </div>
+
+<img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" align="center">
 
 <br><br><br>
 
