@@ -3,12 +3,14 @@
 </div>
 
 <br>
-<pre>
+<div align="center">
+    <pre>
     💼 App Dev Associate @ Accenture 
     💻 JavaScript • Python 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Code
-    </pre>
+    </pre>  
+</div>
 <div align="center">
     <img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" align="center">
 </div>
