@@ -16,6 +16,5 @@
 
 <br><br><br>
 
-<div align="center">
-    [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/andrei-togni-374a2221b/)
-</div>
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/andrei-togni-374a2221b/)
+
