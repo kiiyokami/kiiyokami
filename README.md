@@ -17,6 +17,6 @@
 
 
 <br><br><br>
-
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/andrei-togni-374a2221b/)
+[![](https://img.shields.io/badge/linkedin-0a66c2?&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/andrei-togni-374a2221b/)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8es9da5lpjia1g2fr49brrffa?si=1ed1fc04177e4dd4)
 
