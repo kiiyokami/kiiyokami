@@ -5,8 +5,8 @@
 <div align="center">
     <pre>
     💼 App Dev Associate @ Accenture 
-    💻 JavaScript • Python 
-    📖 Software architecture • Distributed systems
+    💻 JavaScript • Python • TypeScript
+    📖 Software architecture
     🎮 Music • Games • Code
     </pre>  
 </div>
