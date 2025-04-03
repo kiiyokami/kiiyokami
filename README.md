@@ -1,16 +1,13 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&width=435&lines=Hi%2C+I'm+Andrei." alt="Typing SVG" />
-
-
-<br>
-<div align="center">
-    <img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" style="margin-right: 20px;" align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&width=435&lines=Hi%2C+I'm+Andrei." alt="Typing SVG" width="70%" />
+<img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" style="margin-right: 20px;" align="right">
+<br><br>
     <pre style="margin-left: 20px;">
     💼  <b>App Dev Associate</b> @ Accenture 
     💻  JavaScript • Python • TypeScript
     📖  Software architecture enthusiast
     🎮  Music • Games • Code
     </pre>  
-</div>
+<br><br>
 
 
 
