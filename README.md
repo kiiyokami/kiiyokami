@@ -4,7 +4,7 @@
     <pre style="margin-left: 20px;">
     💼  <b>App Dev Associate</b> @ Accenture 
     💻  JavaScript • Python • TypeScript
-    📖  Software architecture enthusiast
+    📖  Software architecture enthusiast • Amazon Web Service
     🎮  Music • Games • Code
     </pre>  
 <br><br>
