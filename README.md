@@ -2,9 +2,9 @@
 <img src="https://media.tenor.com/_e28Mgarn9wAAAAM/mika-misono-mika.gif" height="200" style="margin-right: 20px;" align="right">
 <br><br>
     <pre style="margin-left: 20px;">
-    💼  <b>App Dev Associate</b> @ Accenture 
-    💻  JavaScript • Python • TypeScript
-    📖  Software architecture enthusiast • Amazon Web Service
+    💼  <b>App Dev Associate</b> @ Accenture
+    💻  JavaScript • Python • TypeScript • Linux
+    📖  DevOps enthusiast • Cloud Architecture
     🎮  Music • Games • Code
     </pre>  
 <br><br>
