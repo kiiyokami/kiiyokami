@@ -3,7 +3,7 @@
 <br><br>
     <pre style="margin-left: 20px;">
     💼  <b>App Dev Associate</b> @ Accenture
-    💻  JavaScript • Python • TypeScript • Linux • AWS Cloud
+    💻  Python • TypeScript • Linux • AWS Cloud
     📖  DevOps enthusiast • Cloud Architecture
     🎮  Music • Games • Code
     </pre>  
